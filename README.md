@@ -19,4 +19,11 @@ What does this look like?  You can see a visual [here](http://peak5390.wordpress
 Why openedtools?
 ----------------
 
-Many schools are currently working on implementing competency education.  The Nellie Mae Foundation recently published a [study](a href="http://www.nmefoundation.org/global/featured-research/homepage/making-mastery-work-a-close-up-view-of-competency")study of 7 schools</a> in New England focusing on competency education.  They found effective implementations, but every school has run into a particular .
+Many schools are currently working on implementing competency education.  The Nellie Mae Foundation recently published a [study](a href="http://www.nmefoundation.org/global/featured-research/homepage/making-mastery-work-a-close-up-view-of-competency")study of 7 schools</a> in New England focusing on competency education.  They found effective implementations, but every school has run into similar technical issues.  In order to implement competency education effectively, you  need to have a cleanly organized, complete set of learning targets.  Then you need a way to give each student a copy of this list, and help them track their progress accurately.  There have been three main approaches to this problem, none of which are ideal:
+- Give each student a binder full of checklists.
+- Hire a developer to make a one-off web app for your school.
+- Use a new proprietary solution.
+
+If we want to see widespread adoption of good education models, we need to reduce the friction of adoption as much as possible.  The process of gaining approval from a school or district, finding funds, and signing a contract with a provider are significant enough that even good proprietary solutions slow widespread adoption to a crawl.  We need technical solutions that are as easy to begin using as gmail:  create an account, and start using it.
+
+Openedtools is a collection of free and open web apps, that solve these problems effectively.
