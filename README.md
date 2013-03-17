@@ -16,6 +16,8 @@ What does this look like?  You can see a visual [here](http://peak5390.wordpress
 - When a student has met all their learning targets, they are done.  They graduate, whether it has taken them two years or six years.
 - There is no 9th grade, 10th grade...
 
+We might call this, with Kenneth Reitz permission, "High School for Humans".
+
 Why openedtools?
 ----------------
 
@@ -26,4 +28,9 @@ Many schools are currently working on implementing competency education.  The Ne
 
 If we want to see widespread adoption of good education models, we need to reduce the friction of adoption as much as possible.  The process of gaining approval from a school or district, finding funds, and signing a contract with a provider are significant enough that even good proprietary solutions slow widespread adoption to a crawl.  We need technical solutions that are as easy to begin using as gmail:  create an account, and start using it.
 
-Openedtools is a collection of free and open web apps, that solve these problems effectively.
+What is openedtools?
+---------------
+Openedtools is a collection of free and open web apps, that solve these problems effectively.  There are three separate projects, that can be glued together through an API:
+- openedcompetencies: The complete set of learning targets - everything a student could possibly learn in high school.
+- opencurriculumbuilder: A tool for building lessons, projects, learning experiences, and assessments from competencies.
+- opencompetencytracker: A tool for tracking each student's progress through their identified learning targets.  This is the only security-critical part of the overall system.
