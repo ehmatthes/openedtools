@@ -1,3 +1,7 @@
+Project moved
+===
+Active development on this project has moved to [https://github.com/openlearningtools/opencompetencies](https://github.com/openlearningtools/opencompetencies).
+
 openedtools
 ===========
 Overview
